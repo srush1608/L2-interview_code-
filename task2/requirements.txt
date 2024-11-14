@@ -1,0 +1,7 @@
+Flask
+psycopg2
+pgvector
+python-dotenv
+sentence-transformers
+PyPDF2
+openai
